@@ -1,0 +1,47 @@
+/* src/components/Sabtnam.css */
+.signup-form {
+    width: 350px;
+    margin: 40px auto;
+    padding: 20px;
+    background: #f9f9f9;
+    border-radius: 10px;
+    box-shadow: 0 0 8px rgba(0, 0, 0, 0.1);
+}
+
+.signup-form h2 {
+    text-align: center;
+    margin-bottom: 20px;
+    color: #e2768f;
+}
+
+.signup-form label {
+    display: block;
+    margin-bottom: 30px;
+    color: #784fad;
+    text-shadow: 4px 4px 2px rgba(241, 246, 255, 0.8);
+}
+
+.signup-form input {
+    width: 94%;
+    padding: 10px;
+    margin-top: 4px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+
+.signup-form .error {
+    color: rgb(225, 61, 91);
+    font-size: 0.8em;
+    margin-top: 4px;
+    display: block;
+}
+
+.signup-form button {
+    width: 100%;
+    padding: 10px;
+    background-color: #451845;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}

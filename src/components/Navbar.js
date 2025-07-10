@@ -1,29 +1,5 @@
 import React from 'react';
-
-//پراپ با مقدار پیش فرض  صفر تعریف میشه و برای نمایش تعداد کالاها
-//کل محتوا در nav قرار میگیره 
-//تعریف دکمه های ناوبار و لوگوی فروشگاه در نوار 
-//در خط 19 اگر تعداد بزرگتر صفر باشه پس یه اسپن با استایل تعریف شده نمایش می دهد و اگر سبد خالی بشه این عدد نمایش پیدا نکنه
-function Navbar({ cartCount = 0 }) {
-  return (
-    <nav style={styles.navbar}>
-      <div style={styles.logo}>🛍️ فروشگاه من</div>
-      <div style={styles.buttons}>
-        <button style={styles.btn}>خانه</button>
-        <button style={styles.btn}>محصولات</button>
-        <button style={styles.btn}>ورود</button>
-        <div style={styles.cartBtnWrapper}>
-          <button style={{ ...styles.btn, ...styles.cartBtn }}>
-            🛒
-            {cartCount > 0 && (
-              <span style={styles.badge}>{cartCount}</span>
-            )}
-          </button>
-        </div>
-      </div>
-    </nav>
-  );
-}
+import { Link } from 'react-router-dom';
 
 const styles = {
   navbar: {
@@ -56,11 +32,13 @@ const styles = {
     padding: '8px 16px',
     fontWeight: 'bold',
     cursor: 'pointer',
-    transition: 'background 0.3s ease',
-    position: 'relative',
+    textDecoration: 'none',
   },
   cartBtnWrapper: {
     position: 'relative',
+  },
+  cartBtn: {
+    cursor: 'pointer',
   },
   badge: {
     position: 'absolute',
@@ -74,5 +52,24 @@ const styles = {
     fontWeight: 'bold',
   },
 };
+
+function Navbar({ cartCount = 0 }) {
+  return (
+    <nav style={styles.navbar}>
+      <div style={styles.logo}>🛍️ فروشگاه من</div>
+      <div style={styles.buttons}>
+        <Link to="/" style={styles.btn}>خانه</Link>
+        <Link to="/products" style={styles.btn}>محصولات</Link>
+        <Link to="/login" style={styles.btn}>ورود</Link>
+        <div style={styles.cartBtnWrapper}>
+          <Link to="/checkout" style={{ ...styles.btn, ...styles.cartBtn }}>
+            🛒
+            {cartCount > 0 && <span style={styles.badge}>{cartCount}</span>}
+            </Link>
+        </div>
+      </div>
+    </nav>
+  )};
+
 
 export default Navbar;

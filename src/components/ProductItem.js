@@ -1,13 +1,13 @@
 import React, { useState } from 'react';
 
 function ProductItem({ product, onAddToCart }) {
-//مشخص میکنه وضعیت کارت فعاله یا نه . اگر قعال بود یا نبود افکت اجرا بشه یعنی همونن بزرگ یا کوچیک شدنش
+  //مشخص میکنه وضعیت کارت فعاله یا نه . اگر قعال بود یا نبود افکت اجرا بشه یعنی همونن بزرگ یا کوچیک شدنش
   const [isActive, setIsActive] = useState(false);
 
   const handleClick = () => {
     setIsActive(prev => !prev);
   };
-//    و  خط 16 اجازه فوکوس رو بهمون میده و ااینکه خط 15 که به صفحه خوان ها میگه این صفحه قابلیت کلیک شدن رو دارهonKeyDown: برای فعال شدن با کلید Enter دسترس‌پذیری
+  //    و  خط 16 اجازه فوکوس رو بهمون میده و ااینکه خط 15 که به صفحه خوان ها میگه این صفحه قابلیت کلیک شدن رو دارهonKeyDown: برای فعال شدن با کلید Enter دسترس‌پذیری
   return (
     <div
       onClick={handleClick}

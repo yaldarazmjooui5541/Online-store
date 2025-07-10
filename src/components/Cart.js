@@ -5,20 +5,20 @@ import React from 'react';
 //onremove تابعی هست که روی دکمه ی حذف کلیک کنیم  فراخوانی میشه
 function Cart({ items, onRemove }) {
 
-// جمع مقدار ها و محاسبه ی قیمت
+  // جمع مقدار ها و محاسبه ی قیمت
   const total = items.reduce((sum, item) => sum + item.price * item.quantity, 0);
 
   return (
 
-//سبد خرید و کادر ان را مشخص میکند
-// در خط 17 اگر تعداد جمله با صفر برابر میشد  نشان میدهد اون متن را ولی اگر  اینطور نبود لیست محصولات و ایدی و... رو نشون میده
-//خط 23  تابع مپ  برای نمایش هر کالا در یوای استفاده میکنیم و از ایتم برای تکرار هر کالا از سبد 
+    //سبد خرید و کادر ان را مشخص میکند
+    // در خط 17 اگر تعداد جمله با صفر برابر میشد  نشان میدهد اون متن را ولی اگر  اینطور نبود لیست محصولات و ایدی و... رو نشون میده
+    //خط 23  تابع مپ  برای نمایش هر کالا در یوای استفاده میکنیم و از ایتم برای تکرار هر کالا از سبد 
     <div style={styles.cartContainer}>
       <h2 style={styles.title}>🛒 سبد خرید</h2>
       {items.length === 0 ? (
         <p style={styles.emptyMessage}>سبد خرید شما خالی است.</p>
       ) : (
-////////اطلاعات کالا را شمال میشود
+        ////////اطلاعات کالا را شمال میشود
         <>
           <ul style={styles.list}>
             {items.map(item => (
@@ -26,7 +26,7 @@ function Cart({ items, onRemove }) {
                 <div style={styles.itemInfo}>
                   <img src={item.image} alt={item.name} style={styles.itemImage} />
                   <div>
-                    
+
                     <h4 style={styles.itemName}>{item.name}</h4>
                     <p style={styles.itemQuantity}>تعداد: {item.quantity}</p>
                   </div>
@@ -35,12 +35,12 @@ function Cart({ items, onRemove }) {
                   <span style={styles.itemPrice}>
                     {(item.price * item.quantity).toFixed(2)} دلار
                   </span>
-                  <button 
+                  <button
                     onClick={() => onRemove(item.id)}
                     style={styles.removeBtn}
                     title="حذف یک عدد"
                   >
-                    −
+                    _
                   </button>
                 </div>
               </li>
@@ -133,8 +133,8 @@ const styles = {
     height: 30,
     cursor: 'pointer',
     fontWeight: 'bold',
-    fontSize: 20,
-    lineHeight: '24px',
+    fontSize: 10,
+    lineHeight: '8px',
     transition: 'background-color 0.3s ease',
   },
   total: {

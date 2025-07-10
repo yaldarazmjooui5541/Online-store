@@ -1,0 +1,44 @@
+.payment-container {
+    max-width: 800px;
+    margin: auto;
+    padding: 20px;
+    font-family: 'Arial', sans-serif;
+    background-color: #fdfdfd;
+    border-radius: 12px;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+  }
+  
+  .payment-list {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .payment-item {
+    display: flex;
+    align-items: center;
+    border-bottom: 1px solid #eee;
+    padding: 12px 0;
+  }
+  
+  .payment-item img {
+    width: 80px;
+    height: 80px;
+    border-radius: 8px;
+    margin-left: 20px;
+    object-fit: cover;
+  }
+  
+  .payment-btn {
+    background-color: #28a745;
+    color: white;
+    padding: 10px 24px;
+    border: none;
+    border-radius: 8px;
+    font-size: 16px;
+    margin-top: 20px;
+    cursor: pointer;
+  }
+  
+  .payment-btn:hover {
+    background-color: #218838;
+  }
