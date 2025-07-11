@@ -1,7 +1,8 @@
 <!-- بنر بالا با رنگ دخترونه و گرادیانت --><img src="https://capsule-render.vercel.app/api?type=waving&color=fc67fa,ffffff&height=180&section=header&text=Yalda.Dev%20%7C%20Code%20with%20Beauty!&fontSize=38&fontColor=ffffff&animation=twinkling" /><!-- لوگوی متحرک زیبا --><p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Pacifico&weight=700&size=40&duration=4000&pause=1000&color=fc67fa&vCenter=true&center=true&width=500&lines=Yalda.Dev+%E2%9C%BF;Code+with+Beauty+%F0%9F%92%96" />
 </p><h1 align="center">Hi, I'm <span style="color:#fc67fa; text-shadow: 0 0 8px #ffb3ec">Yalda</span> 👩🏻‍💻✨</h1>
-<h3 align="center" height= 120px>A front-end developer with a heart for design, creativity & clean code ✿</h3><p align="center">
+<h3 align="center">A front-end developer with a heart for design, creativity & clean code ✿</h3>
+<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&duration=3000&pause=1000&color=FF8FD9&center=true&vCenter=true&multiline=true&width=700&lines=Yalda.Dev%20%7C%20Front-End%20Artist%20%F0%9F%92%8E;React%20%2F%20Next%20%2F%20Tailwind%20%2F%20JavaScript;Code%20is%20not%20just%20logic%2C%20it's%20magic%20%F0%9F%8C%88" alt="Typing SVG" />
 </p>
 
