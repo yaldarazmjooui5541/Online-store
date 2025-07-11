@@ -1,7 +1,7 @@
 <!-- بنر بالا با رنگ دخترونه و گرادیانت -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=fc67fa,ffffff&height=180&section=header&text=Yalda.Dev%20%7C%20Code%20with%20Beauty!&fontSize=38&fontColor=ffffff&animation=twinkling" />
 
-<h1 align="center">Hi, I'm <span style="color:#fc67fa">Yalda</span> 👩🏻‍💻✨</h1>
+<h1 align="center">Hi, I'm <span style="color:#fc67fa; text-shadow: 0 0 8px #ffb3ec">Yalda</span> 👩🏻‍💻✨</h1>
 <h3 align="center">A front-end developer with a heart for design, creativity & clean code ✿</h3>
 
 <p align="center">
@@ -10,7 +10,7 @@
 
 ---
 
-### 🎀 About Me
+### 🎀 About Me 🌸🦋
 
 🌸 Creative front-end dev with a minimalist soul  
 🌍 Born in Iran 🇮🇷 | Coding in Finland 🇫🇮  
@@ -20,12 +20,17 @@
 
 ---
 
-### 🎧 Vibes While Coding:
+### 🎧 Vibes While Coding 🎶💗
+
+<div align="center">
+  <img src="https://media.tenor.com/KGgKk2V9LMUAAAAC/music-cute.gif" width="80" />
+</div>
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/3v9yU4wEkt3uUMvO6tL6ay?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
 ---
 
-### 🛠️ Tech Stack
+### 🛠️ Tech Stack 💻✨
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,figma,git,github,vscode,linux" />
@@ -33,7 +38,7 @@
 
 ---
 
-### 📂 Featured Projects
+### 📂 Featured Projects 🧁🖼️
 
 <p align="center">
   <a href="https://github.com/yaldarazmjooui5541/Online-store">
@@ -46,7 +51,7 @@
 
 ---
 
-### 📊 My GitHub Stats
+### 📊 My GitHub Stats 💫📈
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=yaldarazmjooui5541&show_icons=true&theme=radical&count_private=true" />
@@ -58,7 +63,7 @@
 
 ---
 
-### 🏆 GitHub Trophies
+### 🏆 GitHub Trophies 🎖️🌸
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=yaldarazmjooui5541&theme=dracula&row=1&column=6&margin-w=10" />
@@ -66,7 +71,7 @@
 
 ---
 
-### 🌈 What I’m into:
+### 🌈 What I’m into ✨💻🎨
 
 🌸 Aesthetic code & minimalist design  
 📐 UI/UX prototyping in Figma  
@@ -76,7 +81,7 @@
 
 ---
 
-### 💬 FAQ
+### 💬 FAQ ❓💖
 
 **Q:** Do you freelance?  
 **A:** Yes! DM me or reach out via email: **Yalda.Dev@gmail.com**
@@ -89,19 +94,26 @@
 
 ---
 
-### 🧿 Quote I Love:
+### 🧿 Quote I Love ✨📚
 
 > *“Creativity is intelligence having fun.”* – Einstein 🌸
 
 ---
 
-### 📬 Let's Connect!
+### 📬 Let's Connect! 📩🌸
 
 <p align="center">
   <a href="mailto:Yalda.Dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-FF69B4?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://linkedin.com/in/yalda-dev"><img src="https://img.shields.io/badge/LinkedIn-purple?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://instagram.com/yalda.dev"><img src="https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 </p>
+
+---
+
+### 🌟 Did you like my profile?
+
+> If you smiled even a little while scrolling,  
+> ⭐ Please give a star to one of my repos – it makes my day! 🌷
 
 ---
 
