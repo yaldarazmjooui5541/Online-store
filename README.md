@@ -22,8 +22,7 @@
 
 ### 🎧 Vibes While Coding:
 
-[![LoFi Music](https://img.shields.io/badge/🎧%20LoFi%20Coding%20Playlist-FF69B4?style=for-the-badge&logo=music&logoColor=white)](https://www.youtube.com/watch?v=jfKfPfyJRdk)
-
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/3v9yU4wEkt3uUMvO6tL6ay?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 ---
 
 ### 🛠️ Tech Stack
