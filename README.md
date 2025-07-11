@@ -20,15 +20,22 @@
 
 ---
 
-### 🎧 Vibes While Coding 🎶💗
+---
+
+### 🎧 Coding Vibes: My Lo-Fi Bubble 💗🌙
 
 <div align="center">
-  <img src="https://media.tenor.com/KGgKk2V9LMUAAAAC/music-cute.gif" width="80" />
+
+  <img src="https://media.giphy.com/media/l0MYEqEzwMWFCg8rm/giphy.gif" width="120" style="border-radius: 12px;" />
+
+  <br />
+  <em>✨ Lo-fi + Code + Tea = Inner peace ✨</em>
+
+  <br /><br />
+
+  <iframe style="border-radius:20px" src="https://open.spotify.com/embed/track/3v9yU4wEkt3uUMvO6tL6ay?utm_source=generator" width="85%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
 </div>
-
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/3v9yU4wEkt3uUMvO6tL6ay?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-
----
 
 ### 🛠️ Tech Stack 💻✨
 
