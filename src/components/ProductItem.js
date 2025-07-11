@@ -37,7 +37,7 @@ function ProductItem({ product, onAddToCart }) {
         style={{ width: '100%', height: '150px', objectFit: 'cover', borderRadius: '10px' }}
       />
       <h3 style={{ margin: '10px 0 5px', fontSize: '18px', color: '#333' }}>{product.name}</h3>
-      <p style={{ margin: '0 0 15px', fontWeight: 'bold', color: '#007bff' }}>{product.price} دلار</p>
+      <p style={{ margin: '0 0 15px', fontWeight: 'bold', color: '#007bff' }}>{product.price} تومان</p>
       <button
         onClick={e => {
           e.stopPropagation();

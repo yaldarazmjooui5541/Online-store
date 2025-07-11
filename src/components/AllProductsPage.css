@@ -1,71 +1,70 @@
-/* src/components/AllProductsPage.css */
 .products-page {
-    max-width: 1300px;
-    margin: auto;
-    padding: 30px;
-    font-family: 'Vazirmatn', sans-serif;
-  }
-  
-  .products-page h2 {
-    text-align: center;
-    margin-bottom: 30px;
-    color: #333;
-  }
-  
-  .products-grid {
-    display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
-    gap: 20px;
-  }
-  
-  .product-card {
-    background: #fff;
-    border-radius: 12px;
-    box-shadow: 0 6px 12px rgba(0, 0, 0, 0.07);
-    padding: 15px;
-    text-align: center;
-    transition: all 0.3s ease;
-  }
-  
-  .product-card:hover {
-    transform: translateY(-5px);
-    box-shadow: 0 12px 18px rgba(0, 0, 0, 0.1);
-  }
-  
-  .product-card img {
-    max-width: 100%;
-    height: 150px;
-    object-fit: cover;
-    border-radius: 8px;
-  }
-  
-  .product-card h3 {
-    margin: 10px 0 5px;
-    font-size: 1.1rem;
-  }
-  
-  .product-card .category {
-    color: #777;
-    font-size: 0.9rem;
-    margin-bottom: 6px;
-  }
-  
-  .product-card .price {
-    color: #1e88e5;
-    font-weight: bold;
-    margin-bottom: 10px;
-  }
-  
-  .product-card button {
-    background-color: #1e88e5;
-    color: white;
-    border: none;
-    padding: 8px 14px;
-    border-radius: 6px;
-    cursor: pointer;
-    font-size: 0.9rem;
-  }
-  
-  .product-card button:hover {
-    background-color: #1565c0;
-  }
+  max-width: 1300px;
+  margin: auto;
+  padding: 30px;
+  font-family: 'Vazirmatn', sans-serif;
+}
+
+.products-page h2 {
+  text-align: center;
+  margin-bottom: 30px;
+  color: #333;
+}
+
+.products-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
+  gap: 20px;
+}
+
+.product-card {
+  background: #fff;
+  border-radius: 12px;
+  box-shadow: 0 6px 12px rgba(0, 0, 0, 0.07);
+  padding: 15px;
+  text-align: center;
+  transition: all 0.3s ease;
+}
+
+.product-card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 12px 18px rgba(0, 0, 0, 0.1);
+}
+
+.product-card img {
+  max-width: 100%;
+  height: 150px;
+  object-fit: cover;
+  border-radius: 8px;
+}
+
+.product-card h3 {
+  margin: 10px 0 5px;
+  font-size: 1.1rem;
+}
+
+.product-card .category {
+  color: #777;
+  font-size: 0.9rem;
+  margin-bottom: 6px;
+}
+
+.product-card .price {
+  color: #1e88e5;
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+
+.product-card button {
+  background-color: #1e88e5;
+  color: white;
+  border: none;
+  padding: 8px 14px;
+  border-radius: 6px;
+  cursor: pointer;
+  font-size: 0.9rem;
+}
+
+.product-card button:hover {
+  background-color: #1565c0;
+}

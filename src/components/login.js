@@ -7,7 +7,6 @@ export default function Login() {
   function handleSubmit(e) {
     e.preventDefault();
     alert(`ورود با ایمیل: ${email} و رمز عبور: ${password}`);
-
   }
 
   return (

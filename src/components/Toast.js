@@ -5,7 +5,7 @@ function Toast({ message, show, onClose }) {
     if (show) {
       const timer = setTimeout(() => {
         onClose();
-      }, 3000); // پیام به مدت ۳ ثانیه نمایش داده می‌شود
+      }, 3000);
 
       return () => clearTimeout(timer);
     }

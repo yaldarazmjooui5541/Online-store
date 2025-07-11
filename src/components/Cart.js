@@ -33,7 +33,7 @@ function Cart({ items, onRemove }) {
                 </div>
                 <div style={styles.itemActions}>
                   <span style={styles.itemPrice}>
-                    {(item.price * item.quantity).toFixed(2)} دلار
+                    {(item.price * item.quantity).toFixed(2)}تومان 
                   </span>
                   <button
                     onClick={() => onRemove(item.id)}
@@ -47,7 +47,7 @@ function Cart({ items, onRemove }) {
             ))}
           </ul>
           <div style={styles.total}>
-            <strong>جمع کل:</strong> {total.toFixed(2)} دلار
+            <strong>جمع کل:</strong> {total.toFixed(2)} تومان
           </div>
         </>
       )}

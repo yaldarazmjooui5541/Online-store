@@ -65,11 +65,12 @@ function Navbar({ cartCount = 0 }) {
           <Link to="/checkout" style={{ ...styles.btn, ...styles.cartBtn }}>
             🛒
             {cartCount > 0 && <span style={styles.badge}>{cartCount}</span>}
-            </Link>
+          </Link>
         </div>
       </div>
     </nav>
-  )};
+  )
+};
 
 
 export default Navbar;

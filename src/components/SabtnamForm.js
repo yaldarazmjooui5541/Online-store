@@ -1,4 +1,3 @@
-// src/components/SabtnamForm.js
 import React, { useState } from 'react';
 import './Sabtnam.css';
 

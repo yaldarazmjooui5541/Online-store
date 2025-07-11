@@ -23,7 +23,8 @@ function PaymentPage({ cartItems }) {
           <ul className="payment-list">
             {cartItems.map(item => (
               <li key={item.id} className="payment-item">
-                <img src={item.image} alt={item.name} />
+                <img src={item.image} alt={item.name} /> 
+              <hr></hr>
                 <div>
                   <h4>{item.name}</h4>
                   <p>تعداد: {item.quantity}</p>
