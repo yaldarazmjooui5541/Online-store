@@ -1,83 +1,95 @@
-<h1 align="center">Hi there, I'm Yalda 👩🏻‍💻🌸</h1>
-<h3 align="center">A passionate Front-End Developer, Creative Coder & Future Engineer 🚀</h3>
+<!-- بنر رنگی جذاب بالا -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=ffb6c1&height=200&section=header&text=Welcome%20to%20Yalda's%20Galaxy!&fontSize=40&fontColor=ffffff" />
 
+<h1 align="center">👩🏻‍💻 یلدا هستم، برنامه‌نویس عاشق هنر و خلاقیت ✨</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=F772D8&center=true&vCenter=true&multiline=true&width=500&lines=سلام+من+یلدا+هستم+%F0%9F%8C%B8;برنامه‌نویس+فرانت‌اند+و+طراح+خلاق;عاشق+جاوااسکریپت،+React+و+هنر+کدنویسی%E2%9C%A8" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&multiline=true&width=700&lines=فرانت‌اند+دِوِلُپِر+با+روح+دخترونه+و+چاشنی+فناوری!;React+%2F+Next+%2F+JS+%2F+UI+%2F+Tailwind+%2F+عشق+کدنویسی" alt="Typing SVG" />
 </p>
 
 ---
 
-### 🔍 درباره من:
+### 🧠 درباره‌ی من:
 
-- 🎓 دانش‌آموخته مهندسی کامپیوتر
-- ⚡ توسعه‌دهنده React و Next.js با علاقه به طراحی مدرن و خلاقانه
-- 🎧 موقع کدنویسی با موسیقی زنده‌ام
-- 💬 همیشه آماده همکاری روی پروژه‌های خلاقانه هستم
-- 📫 ایمیل من: **Yalda.Dev@gmail.com**
-- 📍 از ایران، ساکن فنلاند
+- 🧩 ترکیب هنر + منطق با کدنویسی
+- 👩🏻‍💻 تخصص در React, Next.js, Tailwind و طراحی UI
+- 🎧 عاشق موزیک لوفای و فضای کافه‌طور برای کدنویسی
+- 🌎 از ایران تا فنلاند؛ جهانی فکر می‌کنم
+- 🖥️ پروژه‌های باز با عشق ساخته شدن، نه فقط با کد
 
 ---
 
-### 🛠️ ابزارهایی که استفاده می‌کنم:
+### 🚀 ابزارهایی که باهاشون کار می‌کنم:
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,git,github,figma,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,figma,git,github,vscode,linux" />
 </p>
 
 ---
 
-### 📈 آمار گیت‌هاب من:
+### 📌 نمونه‌کارهای من (پین‌شده به سبک کارت):
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yaldarazmjooui5541&show_icons=true&theme=tokyonight&hide=contribs,prs" alt="Yalda's GitHub stats" />
-  <br>
+  <a href="https://github.com/yaldarazmjooui5541/Online-store">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yaldarazmjooui5541&repo=Online-store&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/yaldarazmjooui5541/Personal-Website">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yaldarazmjooui5541&repo=Personal-Website&theme=tokyonight" />
+  </a>
+</p>
+
+---
+
+### 📊 آمار من:
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yaldarazmjooui5541&show_icons=true&theme=radical" />
+  <br />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=yaldarazmjooui5541&theme=radical" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yaldarazmjooui5541&layout=compact&theme=tokyonight" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yaldarazmjooui5541&layout=compact&theme=radical" />
 </p>
 
 ---
 
-### 📚 در حال یادگیری:
-
-- 🌟 TypeScript
-- 🌟 GraphQL
-- 🌟 Testing with Jest
-- 🌟 طراحی انیمیشن با Framer Motion
-
----
-
-### 💼 نمونه‌کارها:
-
-| پروژه | توضیح | لینک |
-|-------|--------|------|
-| 🛒 فروشگاه آنلاین | طراحی و پیاده‌سازی فروشگاه با React | [مشاهده](https://github.com/yaldarazmjooui5541/Online-store) |
-| 🌐 وب‌سایت شخصی | معرفی و نمونه‌کار با Next.js | [مشاهده](https://github.com/yaldarazmjooui5541/Personal-Website) |
-| 🎮 بازی جاوااسکریپت | بازی ساده با JS خالص | [مشاهده](https://github.com/yaldarazmjooui5541/Game-JS) |
-
----
-
-### 🙋‍♀️ سوالات متداول (FAQ):
-
-**🎨 آیا طراحی UI هم انجام می‌دی؟**  
-بله! با Figma طراحی می‌کنم و به طراحی‌های تعاملی علاقه دارم.
-
-**📩 آیا آماده همکاری هستی؟**  
-بله، از پروژه‌های تیمی و چالش‌برانگیز استقبال می‌کنم.
-
-**🌈 چرا عاشق فرانت‌اندی؟**  
-چون می‌تونم منطق و زیبایی رو باهم ترکیب کنم.
-
----
-
-### 🧸 چند چیز که درباره‌م بدونی جالبه:
-
-- عاشق گرافیک، طراحی و موسیقی
-- به یادگیری دائمی اعتقاد دارم
-- معمولاً شب‌ها کدنویسی می‌کنم چون الهام‌بخشه 😴💡
-
----
+### 🏆 افتخارات گیت‌هاب من:
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:fc67fa,100:00dbde&height=120&section=footer"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=yaldarazmjooui5541&theme=dracula&margin-w=10&no-frame=true" />
 </p>
+
+---
+
+### 🎧 موزیک لوفای هنگام کدنویسی:
+
+[![Lofi Music](https://img.shields.io/badge/🎧%20Listen%20Lofi%20Coding%20Beats-ff69b4?style=for-the-badge&logo=spotify&logoColor=white)](https://www.youtube.com/watch?v=jfKfPfyJRdk)
+
+---
+
+### 🌐 بازدیدکننده‌ها از کجای دنیا میان؟
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=yaldarazmjooui5541&color=ff69b4&style=flat-square" />
+</p>
+
+---
+
+### 💬 سوالات متداول:
+
+**🌸 چرا عاشق کدنویسی؟**  
+چون جادوییه که توش از صفر چیز خلق می‌کنی.
+
+**🎨 طراحی یا توسعه؟**  
+جفتش! زیبایی وقتی ارزش داره که تو عملکرد هم بدرخشه.
+
+**🤝 آیا همکاری می‌کنی؟**  
+صددرصد! پروژه‌های خلاقانه، تیمی و چالش‌دار عالی‌ان.
+
+---
+
+### 💎 نقل‌قول موردعلاقه‌ام:
+
+> "Creativity is intelligence having fun." – Einstein ✨
+
+---
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=fc67fa&height=150&section=footer" />
