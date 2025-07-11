@@ -126,3 +126,4 @@ A: Because I love turning creative ideas into real, living web experiences ✨
 <img src="https://capsule-render.vercel.app/api?type=waving&color=fc67fa&height=120&section=footer"/>
 
 ---
+
