@@ -81,7 +81,7 @@
 💬 FAQ ❓💖
 
 Q: Do you freelance?
-A: Yes! DM me or reach out via email: Yalda.Dev@gmail.com
+A: Yes! DM me or reach out via email: yaldarazmjooui9@gmail.com 
 
 Q: Favorite framework?
 A: Next.js with Tailwind 💖
@@ -106,7 +106,7 @@ A: Because I love turning creative ideas into real, living web experiences ✨
 <p align="center">
   <a href="mailto:Yalda.Dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-FF69B4?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://linkedin.com/in/yalda-dev"><img src="https://img.shields.io/badge/LinkedIn-purple?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://instagram.com/yalda.dev"><img src="https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://instagram.com/yalda_razmjoouin"><img src="https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 </p>
 ---
 
