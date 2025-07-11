@@ -123,29 +123,3 @@ A: Because I love turning creative ideas into real, living web experiences ✨
 <img src="https://capsule-render.vercel.app/api?type=waving&color=fc67fa&height=120&section=footer"/>
 
 ---
-
-<div align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; color: #fc67fa; animation: pulse 2s infinite;">
-
-  <h3 style="font-weight: 700; font-size: 24px; margin-bottom: 8px;">
-    ⭐ If you liked my vibe...
-  </h3>
-
-  <p style="font-style: italic; font-size: 18px; margin: 0 0 16px 0;">
-    ✨ Give a little star, it means a lot <span style="font-size: 24px;">🌷💖</span>
-  </p>
-
-  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="100" style="border-radius: 12px; box-shadow: 0 0 15px #fc67fa;" alt="Thank you gif" />
-
-</div>
-
-<style>
-@keyframes pulse {
-  0% { text-shadow: 0 0 10px #fc67fa, 0 0 20px #ff99cc, 0 0 30px #ff66cc; }
-  50% { text-shadow: 0 0 20px #ff99cc, 0 0 30px #ff66cc, 0 0 40px #fc67fa; }
-  100% { text-shadow: 0 0 10px #fc67fa, 0 0 20px #ff99cc, 0 0 30px #ff66cc; }
-}
-</style>
-
----
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=fc67fa&height=120&section=footer"/>
